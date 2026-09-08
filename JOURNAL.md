@@ -20,7 +20,7 @@ component choice. The features I currently want are:
 - Some sort of film emulation or Arri-style colour science emulation (ISP on ESP32)
 - Decent resolution (5MP or more)
 - Good UI (can't guarantee)
-- Nice design (Inspiration for Hasselblad X2D or Fuji X1H)
+- Nice design (Inspiration from Hasselblad X2D or Fuji X1H)
 
 I layed out a flow chart to show the main components and how they work together and have also started laying out a PCB
 design in KiCAD following Espressif's reference design for the P4. The current TBD item is the sensor. While I would like
