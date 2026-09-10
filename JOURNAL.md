@@ -30,3 +30,14 @@ I will look into support and see the available options and if writing my own sup
 ![Flow_Chart](images/flowchart1.png)
 
 **Total time spent: 2 hours**
+
+# 10th of September: Schematic layout and display choice
+
+I started laying out the schematic for the ESP32 P4 with some passives and the 3.3V LDO for the camera. I added the connectors
+for the MIPI DSI display and the MIPI CSI camera. The display connector is missing the backlight pins which will be added when
+I find out more specs for the display. I am thinking of using the TPS923622 from TI as a backlight driver as it is cheap, new
+efficient and space effective. I think next I will work on sorting out the schematic for the main power sections.
+
+![Schematic1](images/cameraschematic1.png)
+
+**Total time spent: 1 hour**
