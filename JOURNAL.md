@@ -42,8 +42,13 @@ efficient and space effective. I think next I will work on sorting out the schem
 
 **Total time spent: 1 hour**
 
-# 11th of September 
+# 11th of September: Early prototype shell
 
-
+While waiting for information about the display from the supplier, I roughly modeled the camera in onshape accounting for the
+critical dimensions like the main and secondary displays, SD card, battery USB C, main board and camera module. I then printed
+this out to get a feel for the ergonomics and was quite pleased with it on the first try. The grip might need to be a bit smaller
+and I might remove the lidar sensor.
 
 ![Schematic1](images/20260911_080201.jpg)
+
+**Total time spent: 1 hour**
