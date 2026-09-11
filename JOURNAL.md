@@ -41,3 +41,9 @@ efficient and space effective. I think next I will work on sorting out the schem
 ![Schematic1](images/cameraschematic1.png)
 
 **Total time spent: 1 hour**
+
+# 11th of September 
+
+
+
+![Schematic1](images/20260911_080201.jpg)
